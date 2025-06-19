@@ -8,25 +8,25 @@ This project combines the speed of **Vite**, the power of **React**, and the bea
 
 ## 📦 Technologies Used
 
-| Logo | Tech                | Description                                      |
-|------|---------------------|--------------------------------------------------|
-| ![JS](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) | **JavaScript/JSX**   | Core language for frontend logic               |
-| ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) | **React**            | UI library for building interfaces             |
-| ![Vite](https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png) | **Vite**             | Fast build tool and development server         |
-| ![Tailwind](https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png) | **Tailwind CSS**     | Utility-first CSS framework for custom styling |
-| ![Material UI](https://mui.com/static/logo.png) | **Material UI**      | Component library with theme support           |
-| ![ESLint](https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png) | **ESLint**           | Code linting tool for code quality             |
-| ![Prettier](https://raw.githubusercontent.com/github/explore/main/topics/prettier/prettier.png) | **Prettier**         | Code formatter for clean and uniform code      |
+| ![JS](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) <br/> _JavaScript/JSX_ | Main language used for frontend logic |
+|:--:|--|
+| ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) <br/> _React_ | UI library for building interactive components |
+| ![Vite](https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png) <br/> _Vite_ | Lightning-fast build tool and dev server |
+| ![Tailwind](https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png) <br/> _Tailwind CSS_ | Utility-first CSS framework for styling |
+| ![Material UI](https://mui.com/static/logo.png) <br/> _Material UI_ | Component library with theming support |
+| ![ESLint](https://raw.githubusercontent.com/github/explore/main/topics/eslint/eslint.png) <br/> _ESLint_ | Code linter for consistency and quality |
+| ![Prettier](https://raw.githubusercontent.com/github/explore/main/topics/prettier/prettier.png) <br/> _Prettier_ | Code formatter for clean, readable code |
 
 ---
 
 ## ✨ Features
 
 - ✅ Fast Refresh using Babel or SWC
-- ✅ Material UI components with customization
-- ✅ Tailwind utility classes for flexible design
-- ✅ Preconfigured ESLint and Prettier
-- ✅ Clean project structure with scalability in mind
+- ✅ Responsive Material UI components
+- ✅ Tailwind utility classes for flexible and modern design
+- ✅ Preconfigured ESLint and Prettier for clean code
+- ✅ Scalable folder structure
+- 🧾 **What is NovaCraft?** – NovaCraft is a sample template designed for creating modern portfolio or informational web platforms. You can use it to showcase your personal work, projects, or services in a clean and elegant format.
 
 ---
 
@@ -36,11 +36,11 @@ This project combines the speed of **Vite**, the power of **React**, and the bea
 # Clone the repository
 git clone https://github.com/your-username/react-project-with-NovaCraft.git
 
-# Navigate into the project directory
+# Navigate into the project folder
 cd react-project-with-NovaCraft
 
 # Install dependencies
 npm install
 
-# Start the development server
+# Run the development server
 npm run dev
